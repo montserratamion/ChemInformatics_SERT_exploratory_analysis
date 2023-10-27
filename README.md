@@ -1,5 +1,7 @@
 ### Project status: ON GOING
 
+Skills: ```Data science, Python, Medicinal Chemistry```
+
 
 # Cheminformatics - SERT exploratory analysis project
 
