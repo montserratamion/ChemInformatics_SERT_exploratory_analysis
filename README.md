@@ -3,7 +3,7 @@
 
 # Cheminformatics - SERT exploratory analysis project
 
-<img src="SERT.gif"  width="40%">
+<img src="SERT_scheme.png"  width="40%">
 
 ## Overview
 
