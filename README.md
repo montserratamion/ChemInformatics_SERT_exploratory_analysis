@@ -1,9 +1,9 @@
 ### Project status: ON GOING
 
 
-# Cheminformatics - Machine Learning SERT project
+# Cheminformatics - SERT exploratory analysis project
 
-<img src="ML_SERT.gif"  width="40%">
+<img src="SERT.gif"  width="40%">
 
 ## Overview
 
@@ -26,12 +26,7 @@ Python libraries used:
 - Pickle
 - Pycm
 
-The set up can be easily done with conda enviroments using the YAML file.
-
-```
-conda env create -f ChemBioML_env.yaml
-```
-
+you can install all this libraries on your personal python env or use colab to run the notebook.
 
 ## 2. Inputs
 
